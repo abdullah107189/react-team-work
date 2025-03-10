@@ -3,7 +3,7 @@ import React from 'react';
 const Siam = () => {
     return (
         <div>
-            <h1>Name : SM Sumsuzzaman Siam</h1>
+            <h1 className='text-2xl font-bold'>Name : SM Sumsuzzaman Siam</h1>
         </div>
     );
 };

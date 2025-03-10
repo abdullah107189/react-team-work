@@ -1,5 +1,5 @@
 import React from "react";
-import Siam from "./Siam";
+import Siam from "./components/Navbar/Siam";
 
 const App = () => {
   return (
