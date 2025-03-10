@@ -2,6 +2,7 @@ import React from "react";
 import Footer from "./components/Footer";
 import Banner from "./components/Banner";
 import Siam from "./components/Navbar/Siam";
+import Blog from "./Blog/Blog";
 
 const App = () => {
   return (
@@ -10,6 +11,7 @@ const App = () => {
       <h1 className="text-xl">hello word</h1>
       <Banner />
       <Siam />
+      <Blog></Blog>
       <Footer />
     </div>
   );
