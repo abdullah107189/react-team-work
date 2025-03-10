@@ -1,5 +1,4 @@
 import React from "react";
-import Siam from "./Siam";
 import Banner from "./components/Banner";
 import Siam from "./components/Navbar/Siam";
 
