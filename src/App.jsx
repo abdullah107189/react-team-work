@@ -1,4 +1,5 @@
 import React from "react";
+import Footer from "./components/Footer";
 import Banner from "./components/Banner";
 import Siam from "./components/Navbar/Siam";
 
@@ -9,6 +10,7 @@ const App = () => {
       <h1 className="text-xl">hello word</h1>
       <Banner />
       <Siam />
+      <Footer />
     </div>
   );
 };
